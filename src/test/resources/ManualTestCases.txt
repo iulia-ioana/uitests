@@ -1,0 +1,26 @@
+Test cases for https://csgoempire.com/roulette
+I would pay attention to the spinning wheel, previous rolls, last 100 and enter bet amount section
+
+1. Test that the selected coin is correctly added to Previous rolls and Last 100 sections.
+
+2. Test that the correct winner coin column is highlighted after each roulette spin.
+
+3. Test the bet amount field with letter, special characters, negative amounts and valid number.
+
+4. Test the buttons on the right of the bet amount input field that with a valid amount they will generate the expected amount.
+
+5. Test the buttons on the right of the bet amount input field that with an invalid character they will not work/ do anything.
+
+6. Test that PLACE BET buttons are not working without being logged in.
+
+7. Test that PLACE BET buttons are disabled and no bets can be placed while the roulette is spinning.
+
+8. Test the texts from the page.
+
+9. Test that Race rules link will open a popup with the expected text.
+
+10. Test the sound on/ sound off button.
+
+11. Test that the chat room is not allowing users who are not logged in to write any comments.
+
+12. Test that the counter is consistent throughout several runs : start from the same number and the spinning lasts the same amount of time.
